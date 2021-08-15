@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<inventory type="data">
+  <item>
+    <name>Noodles</name>
+    <cost>60$</cost>
+    <recieved>20</recieved>
+    <sold>5</sold>
+    <available>15</available>
+  </item>
+  <item>
+    <name>oil</name>
+    <cost>2$</cost>
+    <recieved>34</recieved>
+    <sold>24</sold>
+    <available>10</available>
+  </item>
+  <item>
+    <name>Soap</name>
+    <cost>1$</cost>
+    <recieved>30</recieved>
+    <sold>25</sold>
+    <available>5</available>
+  </item>
+</inventory>
