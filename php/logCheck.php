@@ -1,5 +1,5 @@
 <?php
-	//session_start();
+	session_start();
 	require_once('../php/session_header.php');
 	require_once('../service/userService.php');
 
